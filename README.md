@@ -36,7 +36,7 @@ To get started with this project, follow the steps below:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/marvel-characters-viewer.git
+   git clone https://github.com/Skylar-Ennenga/FrontEndCore-Week4Day3-MarvelAPI.git
    cd marvel-characters-viewer
    ```
 
